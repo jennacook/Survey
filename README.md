@@ -7,7 +7,7 @@ Present Day:
 The email will link to their TOPdesk ticket where the customer can rate the service 1 - 5 stars. 
 Comments can be added to the feedback. 
 
-Desireable: 
+Desirable: 
 More open questions.
 Survey immediately after ticket is completed.
 Ability to report on metrics and see metrics for regions and teams, and report on trending.
