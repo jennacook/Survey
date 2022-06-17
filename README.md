@@ -7,10 +7,23 @@ Present Day:
 The email will link to their TOPdesk ticket where the customer can rate the service 1 - 5 stars. 
 Comments can be added to the feedback. 
 
-Desirable: 
-More open questions.
-Survey immediately after ticket is completed.
-Ability to report on metrics and see metrics for regions and teams, and report on trending.
-
 Note:
 The survey/feedback we use today uses TOPdesks standard feedback feature.
+
+Feature Request: 
+1. Automate survey
+2. More open questions.
+3. Survey immediately after ticket is completed.
+4. Ability to report on metrics and see metrics for regions and teams, and report on trending.
+
+Team:
+Martin Leech
+Jonathan Martin
+Jenna Cook
+
+Objective:
+Survey customers on time
+Survey customers to obtain feedback
+Accurate ticket and description information
+Report on responses
+
